@@ -1,0 +1,18 @@
+.itemText {
+  margin-right: 20px;
+}
+
+.button {
+  padding: 4px 10px;
+  border: 1px solid wheat;
+  border-radius: 10px;
+  background-color: transparent;
+  color: wheat;
+}
+
+.button:hover,
+.button:focus {
+  color: blue;
+  border-color: blue;
+  background-color: wheat;
+}
